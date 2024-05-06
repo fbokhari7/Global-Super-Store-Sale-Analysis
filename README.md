@@ -38,9 +38,13 @@ Data Dictionary: The dataset used for model building contained 17,414 observatio
 
 Repository Contents:
 data: Folder containing the dataset.
+
 Cleaned_data: Dataset after preprocessing.
+
 scripts: Python scripts for data preprocessing.
+
 Twb file: Tableau visualizations.
+
 Pdf: A pdf of the whole script and visualizations.
 
 List of Python packages required to run the code.
